@@ -8,7 +8,7 @@ Função Esfera: A função esfera, também conhecida como função de minimiza�
 
 Configuração Personalizável: O código permite que os usuários ajustem vários parâmetros do algoritmo genético, como tamanho da população, taxa de mutação, taxa de crossover, e número de gerações.
 
-Visualização de Resultados: O projeto inclui funcionalidades para visualizar a evolução do algoritmo ao longo das gerações. Isso pode ajudar a entender como o algoritmo está progredindo em direção à solução ótima.
+Visualização de Resultados: O projeto inclui funcionalidades para visualizar a evolução do algoritmo ao longo das gerações. Isto é feito através de gráficos construidos a partir da classe matplotlib.py.
 
 Anaconda3 e Spyder: O projeto foi desenvolvido usando Anaconda3, uma distribuição popular de Python focada em ciência de dados e aprendizado de máquina. O código foi escrito e testado no editor Spyder, que é uma IDE poderosa e fácil de usar para desenvolvimento em Python.
 
